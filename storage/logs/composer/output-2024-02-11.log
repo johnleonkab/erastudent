@@ -1,0 +1,685 @@
+[2024-02-11 12:09:50] composer.INFO: outdated --format
+{
+    "installed": [
+        {
+            "name": "axy/backtrace",
+            "direct-dependency": false,
+            "homepage": "https://github.com/axypro/backtrace",
+            "source": "https://github.com/axypro/backtrace/tree/2.0.0",
+            "version": "2.0.0",
+            "latest": "3.0.1",
+            "latest-status": "update-possible",
+            "description": "Tracing in PHP",
+            "abandoned": false
+        },
+        {
+            "name": "brick/math",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/brick/math/tree/0.11.0",
+            "version": "0.11.0",
+            "latest": "0.12.1",
+            "latest-status": "update-possible",
+            "description": "Arbitrary-precision arithmetic library",
+            "abandoned": false
+        },
+        {
+            "name": "carbonphp/carbon-doctrine-types",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/CarbonPHP/carbon-doctrine-types/tree/1.0.0",
+            "version": "1.0.0",
+            "latest": "3.2.0",
+            "latest-status": "update-possible",
+            "description": "Types to use Carbon in Doctrine",
+            "abandoned": false
+        },
+        {
+            "name": "components/font-awesome",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/components/font-awesome/tree/5.15.4",
+            "version": "5.15.4",
+            "latest": "6.5.1",
+            "latest-status": "update-possible",
+            "description": "Font Awesome, the iconic SVG, font, and CSS framework.",
+            "abandoned": false
+        },
+        {
+            "name": "doctrine/dbal",
+            "direct-dependency": false,
+            "homepage": "https://www.doctrine-project.org/projects/dbal.html",
+            "source": "https://github.com/doctrine/dbal/tree/2.13.9",
+            "version": "2.13.9",
+            "latest": "4.0.0",
+            "latest-status": "update-possible",
+            "description": "Powerful PHP database abstraction layer (DBAL) with many features for database schema introspection and management.",
+            "abandoned": false
+        },
+        {
+            "name": "doctrine/event-manager",
+            "direct-dependency": false,
+            "homepage": "https://www.doctrine-project.org/projects/event-manager.html",
+            "source": "https://github.com/doctrine/event-manager/tree/1.2.0",
+            "version": "1.2.0",
+            "latest": "2.0.0",
+            "latest-status": "update-possible",
+            "description": "The Doctrine Event Manager is a simple PHP event system that was built to be used with the various Doctrine projects.",
+            "abandoned": false
+        },
+        {
+            "name": "doctrine/lexer",
+            "direct-dependency": false,
+            "homepage": "https://www.doctrine-project.org/projects/lexer.html",
+            "source": "https://github.com/doctrine/lexer/tree/1.2.3",
+            "version": "1.2.3",
+            "latest": "3.0.1",
+            "latest-status": "update-possible",
+            "description": "PHP Doctrine Lexer parser library that can be used in Top-Down, Recursive Descent Parsers.",
+            "abandoned": false
+        },
+        {
+            "name": "egulias/email-validator",
+            "direct-dependency": false,
+            "homepage": "https://github.com/egulias/EmailValidator",
+            "source": "https://github.com/egulias/EmailValidator/tree/2.1.25",
+            "version": "2.1.25",
+            "latest": "4.0.2",
+            "latest-status": "update-possible",
+            "description": "A library for validating emails against several RFCs",
+            "abandoned": false
+        },
+        {
+            "name": "illuminate/bus",
+            "direct-dependency": false,
+            "homepage": "https://laravel.com",
+            "source": "https://github.com/laravel/framework",
+            "version": "v8.83.27",
+            "latest": "v10.43.0",
+            "latest-status": "update-possible",
+            "description": "The Illuminate Bus package.",
+            "abandoned": false
+        },
+        {
+            "name": "illuminate/cache",
+            "direct-dependency": false,
+            "homepage": "https://laravel.com",
+            "source": "https://github.com/laravel/framework",
+            "version": "v8.83.27",
+            "latest": "v10.43.0",
+            "latest-status": "update-possible",
+            "description": "The Illuminate Cache package.",
+            "abandoned": false
+        },
+        {
+            "name": "illuminate/collections",
+            "direct-dependency": false,
+            "homepage": "https://laravel.com",
+            "source": "https://github.com/laravel/framework",
+            "version": "v8.83.27",
+            "latest": "v10.43.0",
+            "latest-status": "update-possible",
+            "description": "The Illuminate Collections package.",
+            "abandoned": false
+        },
+        {
+            "name": "illuminate/config",
+            "direct-dependency": false,
+            "homepage": "https://laravel.com",
+            "source": "https://github.com/laravel/framework",
+            "version": "v8.83.27",
+            "latest": "v10.43.0",
+            "latest-status": "update-possible",
+            "description": "The Illuminate Config package.",
+            "abandoned": false
+        },
+        {
+            "name": "illuminate/console",
+            "direct-dependency": false,
+            "homepage": "https://laravel.com",
+            "source": "https://github.com/laravel/framework",
+            "version": "v8.83.27",
+            "latest": "v10.43.0",
+            "latest-status": "update-possible",
+            "description": "The Illuminate Console package.",
+            "abandoned": false
+        },
+        {
+            "name": "illuminate/container",
+            "direct-dependency": false,
+            "homepage": "https://laravel.com",
+            "source": "https://github.com/laravel/framework",
+            "version": "v8.83.27",
+            "latest": "v10.43.0",
+            "latest-status": "update-possible",
+            "description": "The Illuminate Container package.",
+            "abandoned": false
+        },
+        {
+            "name": "illuminate/contracts",
+            "direct-dependency": false,
+            "homepage": "https://laravel.com",
+            "source": "https://github.com/laravel/framework",
+            "version": "v8.83.27",
+            "latest": "v10.43.0",
+            "latest-status": "update-possible",
+            "description": "The Illuminate Contracts package.",
+            "abandoned": false
+        },
+        {
+            "name": "illuminate/database",
+            "direct-dependency": false,
+            "homepage": "https://laravel.com",
+            "source": "https://github.com/laravel/framework",
+            "version": "v8.83.27",
+            "latest": "v10.43.0",
+            "latest-status": "update-possible",
+            "description": "The Illuminate Database package.",
+            "abandoned": false
+        },
+        {
+            "name": "illuminate/events",
+            "direct-dependency": false,
+            "homepage": "https://laravel.com",
+            "source": "https://github.com/laravel/framework",
+            "version": "v8.83.27",
+            "latest": "v10.43.0",
+            "latest-status": "update-possible",
+            "description": "The Illuminate Events package.",
+            "abandoned": false
+        },
+        {
+            "name": "illuminate/filesystem",
+            "direct-dependency": false,
+            "homepage": "https://laravel.com",
+            "source": "https://github.com/laravel/framework",
+            "version": "v8.83.27",
+            "latest": "v10.43.0",
+            "latest-status": "update-possible",
+            "description": "The Illuminate Filesystem package.",
+            "abandoned": false
+        },
+        {
+            "name": "illuminate/hashing",
+            "direct-dependency": false,
+            "homepage": "https://laravel.com",
+            "source": "https://github.com/laravel/framework",
+            "version": "v8.83.27",
+            "latest": "v10.43.0",
+            "latest-status": "update-possible",
+            "description": "The Illuminate Hashing package.",
+            "abandoned": false
+        },
+        {
+            "name": "illuminate/macroable",
+            "direct-dependency": false,
+            "homepage": "https://laravel.com",
+            "source": "https://github.com/laravel/framework",
+            "version": "v8.83.27",
+            "latest": "v10.43.0",
+            "latest-status": "update-possible",
+            "description": "The Illuminate Macroable package.",
+            "abandoned": false
+        },
+        {
+            "name": "illuminate/mail",
+            "direct-dependency": false,
+            "homepage": "https://laravel.com",
+            "source": "https://github.com/laravel/framework",
+            "version": "v8.83.27",
+            "latest": "v10.43.0",
+            "latest-status": "update-possible",
+            "description": "The Illuminate Mail package.",
+            "abandoned": false
+        },
+        {
+            "name": "illuminate/pipeline",
+            "direct-dependency": false,
+            "homepage": "https://laravel.com",
+            "source": "https://github.com/laravel/framework",
+            "version": "v8.83.27",
+            "latest": "v10.43.0",
+            "latest-status": "update-possible",
+            "description": "The Illuminate Pipeline package.",
+            "abandoned": false
+        },
+        {
+            "name": "illuminate/queue",
+            "direct-dependency": false,
+            "homepage": "https://laravel.com",
+            "source": "https://github.com/laravel/framework",
+            "version": "v8.83.27",
+            "latest": "v10.43.0",
+            "latest-status": "update-possible",
+            "description": "The Illuminate Queue package.",
+            "abandoned": false
+        },
+        {
+            "name": "illuminate/session",
+            "direct-dependency": false,
+            "homepage": "https://laravel.com",
+            "source": "https://github.com/laravel/framework",
+            "version": "v8.83.27",
+            "latest": "v10.43.0",
+            "latest-status": "update-possible",
+            "description": "The Illuminate Session package.",
+            "abandoned": false
+        },
+        {
+            "name": "illuminate/support",
+            "direct-dependency": false,
+            "homepage": "https://laravel.com",
+            "source": "https://github.com/laravel/framework",
+            "version": "v8.83.27",
+            "latest": "v10.43.0",
+            "latest-status": "update-possible",
+            "description": "The Illuminate Support package.",
+            "abandoned": false
+        },
+        {
+            "name": "illuminate/translation",
+            "direct-dependency": false,
+            "homepage": "https://laravel.com",
+            "source": "https://github.com/laravel/framework",
+            "version": "v8.83.27",
+            "latest": "v10.43.0",
+            "latest-status": "update-possible",
+            "description": "The Illuminate Translation package.",
+            "abandoned": false
+        },
+        {
+            "name": "illuminate/validation",
+            "direct-dependency": false,
+            "homepage": "https://laravel.com",
+            "source": "https://github.com/laravel/framework",
+            "version": "v8.83.27",
+            "latest": "v10.43.0",
+            "latest-status": "update-possible",
+            "description": "The Illuminate Validation package.",
+            "abandoned": false
+        },
+        {
+            "name": "illuminate/view",
+            "direct-dependency": false,
+            "homepage": "https://laravel.com",
+            "source": "https://github.com/laravel/framework",
+            "version": "v8.83.27",
+            "latest": "v10.43.0",
+            "latest-status": "update-possible",
+            "description": "The Illuminate View package.",
+            "abandoned": false
+        },
+        {
+            "name": "intervention/image",
+            "direct-dependency": false,
+            "homepage": "http://image.intervention.io/",
+            "source": "https://github.com/Intervention/image/tree/2.7.2",
+            "version": "2.7.2",
+            "latest": "3.3.3",
+            "latest-status": "update-possible",
+            "description": "Image handling and manipulation library with support for Laravel integration",
+            "abandoned": false
+        },
+        {
+            "name": "laminas/laminas-diactoros",
+            "direct-dependency": false,
+            "homepage": "https://laminas.dev",
+            "source": "https://github.com/laminas/laminas-diactoros",
+            "version": "2.26.0",
+            "latest": "3.3.0",
+            "latest-status": "update-possible",
+            "description": "PSR HTTP Message implementations",
+            "abandoned": false
+        },
+        {
+            "name": "league/flysystem",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/thephpleague/flysystem/tree/1.1.10",
+            "version": "1.1.10",
+            "latest": "3.24.0",
+            "latest-status": "update-possible",
+            "description": "Filesystem abstraction: Many filesystems, one API.",
+            "abandoned": false
+        },
+        {
+            "name": "middlewares/utils",
+            "direct-dependency": false,
+            "homepage": "https://github.com/middlewares/utils",
+            "source": "https://github.com/middlewares/utils/tree/v3.3.0",
+            "version": "v3.3.0",
+            "latest": "v4.0.0",
+            "latest-status": "update-possible",
+            "description": "Common utils for PSR-15 middleware packages",
+            "abandoned": false
+        },
+        {
+            "name": "mobiledetect/mobiledetectlib",
+            "direct-dependency": false,
+            "homepage": "https://github.com/serbanghita/Mobile-Detect",
+            "source": "https://github.com/serbanghita/Mobile-Detect/tree/2.8.45",
+            "version": "2.8.45",
+            "latest": "4.8.05",
+            "latest-status": "update-possible",
+            "description": "Mobile_Detect is a lightweight PHP class for detecting mobile devices. It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.",
+            "abandoned": false
+        },
+        {
+            "name": "monolog/monolog",
+            "direct-dependency": false,
+            "homepage": "http://github.com/Seldaek/monolog",
+            "source": "https://github.com/Seldaek/monolog/tree/1.27.1",
+            "version": "1.27.1",
+            "latest": "3.5.0",
+            "latest-status": "update-possible",
+            "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+            "abandoned": false
+        },
+        {
+            "name": "nesbot/carbon",
+            "direct-dependency": false,
+            "homepage": "https://carbon.nesbot.com",
+            "source": "https://github.com/briannesbitt/Carbon",
+            "version": "2.72.3",
+            "latest": "3.0.2",
+            "latest-status": "update-possible",
+            "description": "An API extension for DateTime that supports 281 different languages.",
+            "abandoned": false
+        },
+        {
+            "name": "nikic/fast-route",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/nikic/FastRoute/tree/master",
+            "version": "v0.6.0",
+            "latest": "v1.3.0",
+            "latest-status": "update-possible",
+            "description": "Fast request router for PHP",
+            "abandoned": false
+        },
+        {
+            "name": "psr/container",
+            "direct-dependency": false,
+            "homepage": "https://github.com/php-fig/container",
+            "source": "https://github.com/php-fig/container/tree/1.1.2",
+            "version": "1.1.2",
+            "latest": "2.0.2",
+            "latest-status": "update-possible",
+            "description": "Common Container Interface (PHP FIG PSR-11)",
+            "abandoned": false
+        },
+        {
+            "name": "psr/http-message",
+            "direct-dependency": false,
+            "homepage": "https://github.com/php-fig/http-message",
+            "source": "https://github.com/php-fig/http-message/tree/1.1",
+            "version": "1.1",
+            "latest": "2.0",
+            "latest-status": "update-possible",
+            "description": "Common interface for HTTP messages",
+            "abandoned": false
+        },
+        {
+            "name": "psr/log",
+            "direct-dependency": false,
+            "homepage": "https://github.com/php-fig/log",
+            "source": "https://github.com/php-fig/log/tree/1.1.4",
+            "version": "1.1.4",
+            "latest": "3.0.0",
+            "latest-status": "update-possible",
+            "description": "Common interface for logging libraries",
+            "abandoned": false
+        },
+        {
+            "name": "psr/simple-cache",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/php-fig/simple-cache/tree/master",
+            "version": "1.0.1",
+            "latest": "3.0.0",
+            "latest-status": "update-possible",
+            "description": "Common interfaces for simple caching",
+            "abandoned": false
+        },
+        {
+            "name": "pusher/pusher-php-server",
+            "direct-dependency": false,
+            "homepage": "https://github.com/pusher/pusher-php-server",
+            "source": "https://github.com/pusher/pusher-http-php/tree/master",
+            "version": "2.6.4",
+            "latest": "7.2.4",
+            "latest-status": "update-possible",
+            "description": "Library for interacting with the Pusher REST API",
+            "abandoned": false
+        },
+        {
+            "name": "s9e/regexp-builder",
+            "direct-dependency": false,
+            "homepage": "https://github.com/s9e/RegexpBuilder/",
+            "source": "https://github.com/s9e/RegexpBuilder/tree/1.4.6",
+            "version": "1.4.6",
+            "latest": "2.1.0",
+            "latest-status": "update-possible",
+            "description": "Single-purpose library that generates regular expressions that match a list of strings.",
+            "abandoned": false
+        },
+        {
+            "name": "s9e/sweetdom",
+            "direct-dependency": false,
+            "homepage": "https://github.com/s9e/SweetDOM/",
+            "source": "https://github.com/s9e/SweetDOM/tree/2.1.2",
+            "version": "2.1.2",
+            "latest": "3.4.0",
+            "latest-status": "update-possible",
+            "description": "Syntactic sugar for the DOM API with a focus on XSLT 1.0 template manipulation.",
+            "abandoned": false
+        },
+        {
+            "name": "s9e/text-formatter",
+            "direct-dependency": false,
+            "homepage": "https://github.com/s9e/TextFormatter/",
+            "source": "https://github.com/s9e/TextFormatter/tree/2.14.3",
+            "version": "2.14.3",
+            "latest": "2.16.0",
+            "latest-status": "semver-safe-update",
+            "description": "Multi-purpose text formatting and markup library. Plugins offer support for BBCodes, Markdown, emoticons, HTML, embedding third-party media (YouTube, etc...), enhanced typography and more.",
+            "abandoned": false
+        },
+        {
+            "name": "staudenmeir/eloquent-eager-limit",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/staudenmeir/eloquent-eager-limit/tree/v1.6.1",
+            "version": "v1.6.1",
+            "latest": "v1.8.3",
+            "latest-status": "semver-safe-update",
+            "description": "Laravel Eloquent eager loading with limit",
+            "abandoned": false
+        },
+        {
+            "name": "swiftmailer/swiftmailer",
+            "direct-dependency": false,
+            "homepage": "https://swiftmailer.symfony.com",
+            "source": "https://github.com/swiftmailer/swiftmailer/tree/v6.3.0",
+            "version": "v6.3.0",
+            "latest": "v6.3.0",
+            "latest-status": "up-to-date",
+            "description": "Swiftmailer, free feature-rich PHP mailer",
+            "warning": "Package swiftmailer/swiftmailer is abandoned, you should avoid using it. Use symfony/mailer instead.",
+            "abandoned": "symfony/mailer"
+        },
+        {
+            "name": "symfony/config",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/config/tree/v5.4.35",
+            "version": "v5.4.35",
+            "latest": "v6.4.3",
+            "latest-status": "update-possible",
+            "description": "Helps you find, load, combine, autofill and validate configuration values of any kind",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/console",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/console/tree/v5.4.35",
+            "version": "v5.4.35",
+            "latest": "v6.4.3",
+            "latest-status": "update-possible",
+            "description": "Eases the creation of beautiful and testable command line interfaces",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/event-dispatcher",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/event-dispatcher/tree/v5.4.35",
+            "version": "v5.4.35",
+            "latest": "v6.4.3",
+            "latest-status": "update-possible",
+            "description": "Provides tools that allow your application components to communicate with each other by dispatching events and listening to them",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/finder",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/finder/tree/v5.4.35",
+            "version": "v5.4.35",
+            "latest": "v6.4.0",
+            "latest-status": "update-possible",
+            "description": "Finds files and directories via an intuitive fluent interface",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/http-foundation",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/http-foundation/tree/v5.4.35",
+            "version": "v5.4.35",
+            "latest": "v6.4.3",
+            "latest-status": "update-possible",
+            "description": "Defines an object-oriented layer for the HTTP specification",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/mime",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/mime/tree/v5.4.35",
+            "version": "v5.4.35",
+            "latest": "v6.4.3",
+            "latest-status": "update-possible",
+            "description": "Allows manipulating MIME messages",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/process",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/process/tree/v5.4.35",
+            "version": "v5.4.35",
+            "latest": "v6.4.3",
+            "latest-status": "update-possible",
+            "description": "Executes commands in sub-processes",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/translation",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/translation/tree/v5.4.35",
+            "version": "v5.4.35",
+            "latest": "v6.4.3",
+            "latest-status": "update-possible",
+            "description": "Provides tools to internationalize your application",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/translation-contracts",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/translation-contracts/tree/v2.5.2",
+            "version": "v2.5.2",
+            "latest": "v3.4.1",
+            "latest-status": "update-possible",
+            "description": "Generic abstractions related to translation",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/yaml",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/yaml/tree/v5.4.35",
+            "version": "v5.4.35",
+            "latest": "v6.4.3",
+            "latest-status": "update-possible",
+            "description": "Loads and dumps YAML files",
+            "abandoned": false
+        },
+        {
+            "name": "voku/portable-ascii",
+            "direct-dependency": false,
+            "homepage": "https://github.com/voku/portable-ascii",
+            "source": "https://github.com/voku/portable-ascii/tree/1.6.1",
+            "version": "1.6.1",
+            "latest": "2.0.1",
+            "latest-status": "update-possible",
+            "description": "Portable ASCII library - performance optimized (ascii) string functions for php.",
+            "abandoned": false
+        },
+        {
+            "name": "wikimedia/less.php",
+            "direct-dependency": false,
+            "homepage": "https://gerrit.wikimedia.org/g/mediawiki/libs/less.php",
+            "source": "https://github.com/wikimedia/less.php/tree/v3.2.1",
+            "version": "v3.2.1",
+            "latest": "v4.1.1",
+            "latest-status": "update-possible",
+            "description": "PHP port of the LESS processor",
+            "abandoned": false
+        }
+    ]
+}
+  
+[2024-02-11 12:09:50] composer.INFO: outdated --format --minor-only
+{
+    "installed": [
+        {
+            "name": "s9e/text-formatter",
+            "direct-dependency": false,
+            "homepage": "https://github.com/s9e/TextFormatter/",
+            "source": "https://github.com/s9e/TextFormatter/tree/2.14.3",
+            "version": "2.14.3",
+            "latest": "2.16.0",
+            "latest-status": "semver-safe-update",
+            "description": "Multi-purpose text formatting and markup library. Plugins offer support for BBCodes, Markdown, emoticons, HTML, embedding third-party media (YouTube, etc...), enhanced typography and more.",
+            "abandoned": false
+        },
+        {
+            "name": "staudenmeir/eloquent-eager-limit",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/staudenmeir/eloquent-eager-limit/tree/v1.6.1",
+            "version": "v1.6.1",
+            "latest": "v1.8.3",
+            "latest-status": "semver-safe-update",
+            "description": "Laravel Eloquent eager loading with limit",
+            "abandoned": false
+        },
+        {
+            "name": "swiftmailer/swiftmailer",
+            "direct-dependency": false,
+            "homepage": "https://swiftmailer.symfony.com",
+            "source": "https://github.com/swiftmailer/swiftmailer/tree/v6.3.0",
+            "version": "v6.3.0",
+            "latest": "v6.3.0",
+            "latest-status": "up-to-date",
+            "description": "Swiftmailer, free feature-rich PHP mailer",
+            "warning": "Package swiftmailer/swiftmailer is abandoned, you should avoid using it. Use symfony/mailer instead.",
+            "abandoned": "symfony/mailer"
+        }
+    ]
+}
+  
